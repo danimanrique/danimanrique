@@ -20,7 +20,7 @@
 
 ### 🔍 Algunos de mis proyectos
 
-- 📊 [Shopi - Tienda Online - React | Vite | Tailwind ]([https://github.com/tuUsuario/dashboard-obras](https://github.com/danimanrique/shop-react))
+- 📊 [Shopi - Tienda Online - React | Vite | Tailwind ](https://github.com/tuUsuario/dashboard-obras](https://github.com/danimanrique/shop-react)
 - 📱 [Sorteo de Instagram en React](https://github.com/tuUsuario/insta-sorteo)
 
 ---
