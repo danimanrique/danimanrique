@@ -22,6 +22,7 @@
 
 - 📊 [Shopi: Tienda Online - React + Vite + Tailwind ](https://github.com/danimanrique/shop-react)
 - 📱 [Sorteo de Instagram en React](https://github.com/tuUsuario/insta-sorteo)
+- 📝 [Sitio personal para Alicia Arias](https://github.com/alicia-arias/web-astro)
 
 ---
 
@@ -32,7 +33,7 @@
 
 ---
 
-### 📈 Stats (opcional)
+### 📈 Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuUsuario&show_icons=true&theme=radical)
 
