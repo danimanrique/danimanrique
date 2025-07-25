@@ -31,9 +31,4 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniela-andrea-manrique-282269138)
 [![Email](https://img.shields.io/badge/-Email-555555?style=flat&logo=gmail&logoColor=white)](mailto:daniela.manrique22@hotmail.com)
 
----
-
-### 📈 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuUsuario&show_icons=true&theme=radical)
 
