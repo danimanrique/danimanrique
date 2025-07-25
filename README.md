@@ -28,7 +28,7 @@
 
 ### 📫 Contactame
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniela-andrea-manrique-282269138)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniela-andrea-manrique-282269138)
 [![Email](https://img.shields.io/badge/-Email-555555?style=flat&logo=gmail&logoColor=white)](mailto:daniela.manrique22@hotmail.com)
 
 
