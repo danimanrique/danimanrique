@@ -2,7 +2,6 @@
 
 <p align="center">
   Desarrolladora Fullstack 🚀<br/>
-  Me interesa el diseño, la usabilidad y construir experiencias web accesibles y modernas.
 </p>
 
 ---
