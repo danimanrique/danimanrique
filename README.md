@@ -33,7 +33,7 @@ En este perfil incluyo proyectos personales que me permitieron explorar diversos
 ### 🔍 Algunos de mis proyectos
 
 - 📊 [Shopi: Tienda Online - React + Vite + Tailwind ](https://github.com/danimanrique/shop-react)
-- 📱 [Lucky: Sorteo de Instagram - React + Vite](https://github.com/tuUsuario/insta-sorteo)
+- 📱 [Lucky: Sorteo de Instagram - React + Vite](https://github.com/danimanrique/insta-sorteo)
 - 📝 [Sitio personal para Alicia Arias - Astro](https://github.com/alicia-arias/web-astro)
 - :tomato: [Temporizador de técnica Pomodoro - Angular v17 + PrimeNG ](https://github.com/danimanrique/pomodoro-angular)
 
