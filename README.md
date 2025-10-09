@@ -32,12 +32,12 @@ En este perfil incluyo proyectos personales que me permitieron explorar diversos
 
 ### 🔍 Algunos de mis proyectos
 
-- 📊 [Shopi: Tienda Online - React + Vite + Tailwind ](https://github.com/danimanrique/shop-react)
+- :speaker: [Mesa de Entrada - N8N + Gemini + Slack + Google Sheets + Gmail ](https://github.com/danimanrique/n8n-mesa-entrada)
 - 📱 [Lucky: Sorteo de Instagram - React + Vite](https://github.com/danimanrique/lucky)
 - 📝 [Sitio personal para Alicia Arias - Astro](https://github.com/alicia-arias/web-astro)
 - :tomato: [Temporizador de técnica Pomodoro - Angular v17 + PrimeNG ](https://github.com/danimanrique/pomodoro-angular)
+- 📊 [Shopi: Tienda Online - React + Vite + Tailwind ](https://github.com/danimanrique/shop-react)
 
----
 
 ### 📫 Contactame
 
