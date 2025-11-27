@@ -10,7 +10,7 @@
 
 Comencé mi carrera trabajando con Angular, framework con el que desarrollé la mayoría de mis proyectos y con el que adquirí un dominio sólido del ecosistema Frontend. Con el tiempo, fui incorporando nuevas tecnologías como ReactJS y NextJS, así como herramientas backend como NestJS y bases de datos relacionales como MySQL.
 
-Esta evolución constante me permitió adaptarme con agilidad a distintos entornos de desarrollo y aportar valor tanto en el frontend como en el backend, dentro de equipos multidisciplinarios.
+Esta evolución constante me permitió adaptarme a distintos entornos de desarrollo y aportar valor tanto en el frontend como en el backend, dentro de equipos multidisciplinarios.
 
 Para mí, cada desafío representa una oportunidad de aprendizaje y una forma de aportar un enfoque creativo, resolutivo y adaptable a los proyectos.
 
